@@ -40,7 +40,7 @@ print(f"Inverted gray: {inverted_gray}")
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to fork the repository and submit a pull request. [Repository link]()
+Contributions, issues, and feature requests are welcome! Feel free to fork the repository and submit a pull request. [Repository link](https://github.com/GeorgievIliyan/rgb_color_inverter)
 
 ## License
 

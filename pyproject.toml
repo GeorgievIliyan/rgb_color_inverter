@@ -18,4 +18,4 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/invertcolor"
+Homepage = "https://github.com/GeorgievIliyan/rgb_color_inverter"
