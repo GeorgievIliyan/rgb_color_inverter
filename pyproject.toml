@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "invertcolor"
 version = "0.1.0"
 authors = [
-  { name="Your Name", email="your.email@example.com" },
+  { name = "Iliyan Georgiev", email = "georgiev.iliyan09@gmail.com" }
 ]
 description = "A simple library to invert RGB colors."
 readme = "README.md"
